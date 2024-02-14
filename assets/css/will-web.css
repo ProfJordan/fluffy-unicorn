@@ -1202,7 +1202,7 @@
     );
   }
   
-  @media (max-width: 991px) {
+  @media (max-width: 925px) {
     h1 {
       font-size: 64px;
       line-height: 68px;
